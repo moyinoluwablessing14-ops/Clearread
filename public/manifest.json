@@ -1,0 +1,8 @@
+{
+  "short_name": "ClearRead",
+  "name": "ClearRead - Accessible Reading App",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0d9488",
+  "background_color": "#fbf9f5"
+}
